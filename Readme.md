@@ -6,17 +6,17 @@ This `ABook.` is a very minimal and simple to save contacts list.
 
 This `ABook.` is a very minimal and simple to save contacts list.
 
-#### NojeJs >14.0.0
+### NojeJs >14.0.0
 
-#### JavaScript >ES6
+### JavaScript >ES6
 
-#### React >16.0.0
+### React >16.0.0
 
-#### HTML >5.0.0
+### HTML >5.0.0
 
-#### CSS >3.0.0
+### CSS >3.0.0
 
-#### Used few `npm modules` for animation and icons
+### Used few `npm modules` for animation and icons
 
 # Usage
 
@@ -66,6 +66,12 @@ Project clone form here (Abook.)[https://github.com/c4tbrilliantthoughts/ABook]
 - Open your browser to http://localhost:3000
 
 Any changes you make will automatically build and you will be able to see these by refreshing your browser.
+
+# Deployed to Vercel
+
+Vercel is a platform for frontend frameworks and static sites, built to integrate with your headless content, commerce, or database. We provide a frictionless developer experience to take care of the hard things: deploying instantly, scaling automatically, and serving personalized content around the globe.
+
+Sucessfully deployed to `Vercel` with `GitHub map versioning` concept. To save any chnages from `GitHub` it will automatically build and deploy to `Vercel`.
 
 # Author
 

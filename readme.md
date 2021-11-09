@@ -34,6 +34,8 @@ There are major features:
 
 - Search contact
 
+- Designed UI/UX for this app with logo design 
+
 `Design System` is based on [Material-UI](https://material-ui.com/) and [React](https://reactjs.org/).
 
 Components are divided into five parts:

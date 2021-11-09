@@ -6,17 +6,17 @@ This `ABook.` is a very minimal and simple to save contacts list.
 
 This `ABook.` is a very minimal and simple to save contacts list.
 
-### NojeJs >14.0.0
+#### NojeJs >14.0.0
 
-### JavaScript >ES6
+#### JavaScript >ES6
 
-### React >16.0.0
+#### React >16.0.0
 
-### HTML >5.0.0
+#### HTML >5.0.0
 
-### CSS >3.0.0
+#### CSS >3.0.0
 
-### Used few `npm modules` for animation and icons
+#### Used few `npm modules` for animation and icons
 
 # Usage
 
